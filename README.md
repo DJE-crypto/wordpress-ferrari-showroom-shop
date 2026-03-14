@@ -22,13 +22,25 @@ The website is structured to captivate users from the homepage using a clean des
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
-> *Visual overview of the interface.*
+## 📸 Screenshots & User Flow
+> Visual overview of the Ferrari Showroom experience.
 
-| Home Page | Product Details |
+### 🏠 Homepage & Branding
+| Hero Section | Features | Fleet Overview |
+| :--- | :--- | :--- |
+| ![Home 1](Screenshots/acueil1.jpg) | ![Home 2](Screenshots/acueil2.jpg) | ![Home 3](Screenshots/acueil3.jpg) |
+
+*(More views: acueil4 to acueil10)*
+
+### 🛒 Shopping Experience
+| Product Catalog | Product Details | Shopping Cart |
+| :--- | :--- | :--- |
+| ![Shop](Screenshots/boutique1.jpg) | ![Product Info](Screenshots/productInforation1.png) | ![Cart](Screenshots/panier1.jpg) |
+
+### 👤 User Journey
+| My Account | Contact Us |
 | :--- | :--- |
-| ![Home](Screenshots/acueil1.jpg) | ![Product](Screenshots/productInforation2.png) |
-
+| ![Account](Screenshots/MonCompte1.jpg) | ![Contact](Screenshots/contact1.jpg) |
 ## 📖 Installation & Usage
 *This repository contains the **custom theme files** and configuration for the project.*
 
