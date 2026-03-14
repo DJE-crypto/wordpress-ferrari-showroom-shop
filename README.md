@@ -22,7 +22,7 @@ The website is structured to captivate users from the homepage using a clean des
 ---
 
 ## 📸 Screenshots
-
+Screenshots
 
 ## 📖 Installation & Usage
 *This repository contains the **custom theme files** and configuration for the project.*
