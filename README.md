@@ -35,7 +35,7 @@ The website is structured to captivate users from the homepage using a clean des
 ### 🛒 Shopping Experience
 | Product Catalog | Product Details | Shopping Cart |
 | :--- | :--- | :--- |
-| ![Shop](Screenshots/boutique1.png) | ![Product Info](Screenshots/productInforation1.png) | ![Cart](Screenshots/panier1.png) |
+| ![Shop](Screenshots/boutique1.png) | ![Product Info](Screenshots/productInforation1.png) | ![Cart](Screenshots/panier2.png) |
 
 ### 👤 User Journey
 | My Account | Contact Us |
