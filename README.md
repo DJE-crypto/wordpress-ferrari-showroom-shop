@@ -29,8 +29,8 @@ The website is structured to captivate users from the homepage using a clean des
 | Hero Section | Features | Fleet Overview |
 | :--- | :--- | :--- |
 | ![Home 1](Screenshots/acueil1.png) | ![Home 2](Screenshots/acueil2.png) | ![Home 3](Screenshots/acueil3.png) |
+| ![Home 4](Screenshots/acueil4.png) | ![Home 5](Screenshots/acueil5.png) | ![Home 6](Screenshots/acueil6.png) |
 
-*(More views: acueil4 to acueil10)*
 
 ### 🛒 Shopping Experience
 | Product Catalog | Product Details | Shopping Cart |
